@@ -1,0 +1,121 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(#9c4f93, #9198e5);
+    height: 400vh;
+    background-repeat: no-repeat;
+}
+nav{
+    width: 192vh;
+    height: 80px;
+    padding: 50px;
+    text-align: center;
+    background-color: #462B57;
+    border-radius: 0px 0px 20px 20px;
+}
+ul{
+    list-style-type:none;
+    overflow: hidden;
+}
+button{
+    background-color: transparent;
+    border: none;
+}
+li{
+    float: left;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+li:hover{
+    text-decoration: underline;
+}
+
+.bienvenida{
+    margin: auto;
+    width: 30%;
+    padding: 20px;
+    color: white;
+    margin-top: 5%;
+    border-radius: 20px;
+    background:linear-gradient(#5d2156, #9198e5);
+    
+    transition: 0.25s;
+}
+.bienvenida:hover{
+    transform: scale(1.05);
+}
+.bienvenida-texto{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.bienvenida p{
+    font-size: 25px;
+    text-align: center;
+}
+
+.dedicatoria{
+    margin: auto;
+    margin-top: 10%;
+    width: 40%;
+    background: linear-gradient(#dba5ff, #7dd0fc);
+    background-repeat: no-repeat;
+    padding: 20px;
+    border-radius: 20px;
+    color: #462b57;
+    text-align: center;
+
+    transition: 0.25s;
+}
+.dedicatoria:hover{
+    transform: scale(1.05);
+}
+.dedicatoria-texto{
+    font-size: 40px;
+    text-decoration: underline;
+}
+.dedicatoria-parrafo{
+    font-size: 25px;
+}
+.FCA{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.momentos-felices{
+    margin: auto;
+    width: 65%;
+    height: 180vh;
+    margin-top: 10%;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    color: #dba5ff;
+    background: linear-gradient(#462b57, #e0fffa);
+}
+.imgs img{
+    width: 400px;
+    border-radius: 20px;
+}
+.momentos-felices-texto{
+    font-size: 40px;
+}
+.i2{
+    transform: translate(-60px,140px);
+}
+.i3{
+    transform: translate(-80px,200px);
+}
+.i5{
+    transform: translate(-60px,140px);
+}
+.i6{
+    transform: translate(-80px,200px);
+}
+.i8{
+    transform: scale(0.70) translate(250px, -1900px);
+}
+.i7{
+    transform: scale(0.90) translate(-90px, -70px);
+}
