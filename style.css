@@ -105,17 +105,14 @@ li:hover{
     transform: translate(-60px,140px);
 }
 .i3{
-    transform: translate(-80px,200px);
+    transform: translate(-80px,20px);
 }
 .i5{
-    transform: translate(-60px,140px);
+    transform: translate(-10px,60px);
 }
 .i6{
-    transform: translate(-80px,200px);
-}
-.i8{
-    transform: scale(0.70) translate(250px, -1900px);
+    transform: translate(-20px,100px);
 }
 .i7{
-    transform: scale(0.90) translate(-90px, -70px);
+    transform: scale(0.90) translate(-300px, -70px);
 }
