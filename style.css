@@ -116,3 +116,25 @@ li:hover{
 .i7{
     transform: scale(0.90) translate(-300px, -70px);
 }
+
+.regalo-principal{
+    margin: auto;
+    padding: 20px 50px;
+    border-radius: 20px;
+    width: 25%;
+    margin-top: 10%;
+    background: linear-gradient(#dba5ff, #5d2156);
+    text-align: center;
+}
+.regalo{
+    font-size: 50px;
+    color: #7dd0fc;
+}
+.regalo-texto{
+    font-size: 35px;
+    color: #9198e5;
+}
+.level-id{
+    font-size: 20px;
+    color: #ffffff;
+}
